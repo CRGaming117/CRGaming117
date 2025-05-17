@@ -4,7 +4,7 @@
 ### Education 
 **Drexel University '29**\
 **Major:** Computer Science\
-**Minor:** Computer Engineering\
+**Minor:** Computer Engineering
 ### Languages
 - :coffee: Java
 - :snake: Python

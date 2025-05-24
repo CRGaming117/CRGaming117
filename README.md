@@ -18,7 +18,7 @@
 - Embeded Systems
 ### Notable Projects
 - Fly Hunt (Python)
-- PyRacer (Python)
 - Chess Royale (HTML & JavaScript)
+- Speed Chaser (Java)
 - InkArt (Java)
 - Genesis (Java)

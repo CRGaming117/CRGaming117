@@ -1,5 +1,5 @@
 # Hello there :wave:, this is Cris C.
-(alias CRGaming117)
+(alias CRGaming117) School account: [cr15-70](https://github.com/cr15-70)
 ## :green_heart: About me
 ### Education 
 **Drexel University '29**\
